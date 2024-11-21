@@ -9,7 +9,5 @@ Written using the HLA API scripting documentation. I had to reuse projection cam
 
 ![20220120153803_1](https://github.com/user-attachments/assets/b9a387cf-f34d-4d32-91e8-3fdef04b05cc)
 ![getflush](https://github.com/user-attachments/assets/d032c694-eb46-4429-a0e6-4f6aa6340939)
-![IMG_0271](https://github.com/user-attachments/assets/3e9fcd36-f980-47be-8275-4e23b2752177)
-
 
 The rest of the images are random bits of math and code for the trig related to view projections. I have to look through more of my archives for other progress and updates I made on it.
