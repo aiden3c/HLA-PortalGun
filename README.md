@@ -1,8 +1,9 @@
 # Half Life Alyx: Portal Gun
 Archive of my WIP portal gun mod for Half Life Alyx.
-When in college for physics, I was playing modded Half Life Alyx and wanted to create the Portal Gun so I could use it in Portal/2 maps that have been ripped and put into the game (had some myself, wasn't hard).
+When in college for physics, I was playing modded Half Life Alyx and wanted to create the Portal Gun so I could use it in Portal/2 maps that have been ripped and put into the game (had ripped some myself, wasn't hard).
 
 As finals were starting to come up, I was unable to get this to a state I was happy with. I was going to continue work on it, but the code has since been lost due to a corrupted Windows install : (
+
 This is to give me a refresher when I get back into it.
 
 Written using the HLA API scripting documentation. I had to reuse projection cameras and assign them as textures to get around some of the limitations I had with the scripting API at the time.
